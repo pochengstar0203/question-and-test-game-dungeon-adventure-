@@ -30,10 +30,10 @@ This project was developed as a course assignment and serves as a demonstration 
    git clone https://github.com/your-username/question-and-test-game-dungeon-adventure-.git
 2. Navigate to the folder:
    ```bash
-cd question-and-test-game-dungeon-adventure-
+   cd question-and-test-game-dungeon-adventure-
 3. Run the main game file:
    ```bash
-python 鬥智地下城.py
+   python 鬥智地下城.py
 
 Future Improvements
 
